@@ -3,7 +3,7 @@
     "name": "RentX",
     "desc": "Rentx a car rental website using HTML & CSS.",
     "image": "rentx",
-    "category": "mern",
+    "category": "htmlcss",
     "links": {
       "view": "https://github.com/xadarsh/Rentx",
       "code": "https://github.com/xadarsh/Rentx"
@@ -13,7 +13,7 @@
     "name": "Apni Raksha",
     "desc": "Public Safety Android Application using Android Studio with Java, seamlessly integrated with Firebase for real-time data management and enhanced functionality. ",
     "image": "apniraksha",
-    "category": "mern",
+    "category": "java",
     "links": {
       "view": "#",
       "code": "#"
