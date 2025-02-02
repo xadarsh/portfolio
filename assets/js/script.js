@@ -117,6 +117,7 @@ function showSkills(skills) {
 
 function showProjects(projects) {
     let projectsContainer = document.querySelector("#work .box-container");
+   /*
     let projectHTML = "";
     projects.slice(0, 10).filter(project => project.category != "android").forEach(project => {
         projectHTML += `
@@ -137,6 +138,8 @@ function showProjects(projects) {
     </div>`
     });
     projectsContainer.innerHTML = projectHTML;
+
+    */
 
     // <!-- tilt js effect starts -->
     VanillaTilt.init(document.querySelectorAll(".tilt"), {
