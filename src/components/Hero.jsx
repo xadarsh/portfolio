@@ -140,7 +140,7 @@ const Hero = () => {
             whileTap={{ scale: 0.95 }}
           >
             <HiDownload size={20} className="group-hover:animate-bounce" />
-            Download CV
+            View Resume
           </motion.a>
         </motion.div>
 
