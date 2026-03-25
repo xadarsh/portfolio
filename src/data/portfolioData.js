@@ -3,7 +3,7 @@ export const personalInfo = {
   title: "Full Stack Developer",
   email: "adarshmaurya541@gmail.com",
   location: "India",
-  resumeLink: "https://drive.google.com/file/d/1E_9XvApAPRqDwL89xmz6g8B_cMU7tZYP/view?usp=sharing",
+  resumeLink: "https://drive.google.com/file/d/1apJuUDdqAT22gTODZg9ZqReRDzWlAOmN/view?usp=sharing",
   bio: "Passionate about crafting innovative web solutions and building scalable applications. I specialize in Java, Spring Boot, Go, and modern web technologies to create impactful digital experiences.",
 };
 
